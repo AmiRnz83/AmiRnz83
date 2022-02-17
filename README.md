@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AmiRnz83
+- 👀 I’m interested in css and htmal and C# and Pyton
+- 🌱 I’m currently learning css and html and php and c#
